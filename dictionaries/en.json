@@ -1,0 +1,16 @@
+{
+  "tableHeader": {
+    "provider": "Provider",
+    "customer": "Customer",
+    "ipAddress": "IP Address",
+    "macAddress": "MAC Address",
+    "license": "License Status",
+    "manufacturer": "Device Manufacturer",
+    "status": "Status",
+    "lastConnect": "Last Connect",
+    "actions": "Actions"
+  },
+  "common": {
+    "exportButton": "Export"
+  }
+}
